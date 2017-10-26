@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pokemon App</string>
+    <string name="moves_title">Moves:</string>
+</resources>
